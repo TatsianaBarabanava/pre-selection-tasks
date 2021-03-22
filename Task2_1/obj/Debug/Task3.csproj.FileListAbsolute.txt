@@ -1,0 +1,2 @@
+C:\Users\Tatsiana_Barabanava\source\repos\Task3\obj\Debug\Task3.csprojAssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache

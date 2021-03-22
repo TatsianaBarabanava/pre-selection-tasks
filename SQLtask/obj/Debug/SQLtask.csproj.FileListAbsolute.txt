@@ -1,0 +1,7 @@
+C:\Users\Tatsiana_Barabanava\source\repos\SQLtask\bin\Debug\SQLtask.exe.config
+C:\Users\Tatsiana_Barabanava\source\repos\SQLtask\bin\Debug\SQLtask.exe
+C:\Users\Tatsiana_Barabanava\source\repos\SQLtask\bin\Debug\SQLtask.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SQLtask\obj\Debug\SQLtask.csprojAssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SQLtask\obj\Debug\SQLtask.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SQLtask\obj\Debug\SQLtask.exe
+C:\Users\Tatsiana_Barabanava\source\repos\SQLtask\obj\Debug\SQLtask.pdb
